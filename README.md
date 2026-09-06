@@ -11,7 +11,9 @@
 
 The biggest problems with the current respawn mods is that they make you respawn fast in every gamemode, like party, which is unideal as it has made players accidently end a round early due to it, it also lets you play challenge mode way faster, without an annoying scoreboard popping up everytime you die, or let you instantly respawn in challenge and freeplay, and more
 
-## Challenge Features
+# Features
+
+## Challenge Mode
 
 ### Instant Respawn Key
 
@@ -27,7 +29,7 @@ The instant retry on death is a setting which you can turn on in the config file
 
 These 2 features lets you prevent the mod from respawning you too quick, or if you accidently press the instant respawn key when you're in a really good run
 
-## Freeplay Features
+## Freeplay Mode
 
 ### Freeplay Respawn Key
 
