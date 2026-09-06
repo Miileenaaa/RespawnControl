@@ -9,7 +9,7 @@
 
 ## Why use this over any other respawn mod?
 
-The biggest problems with the current respawn mods is that they make you respawn fast in every gamemode, like party, which is unideal as it has made players accidently end a round early due to it, it also lets you play challenge mode way faster, without an annoying scoreboard popping up everytime you die, or let you instantly respawn in challenge and freeplay, and more
+The biggest problems with the current respawn mods is that they make you respawn fast in every gamemode, like party, which is unideal as it has made players accidently end a round early due to it, and they also keep bringing an annoying scoreboard popup when you die in challenge mode, this mod fixes all of that and does even more
 
 # Features
 
