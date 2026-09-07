@@ -11,6 +11,8 @@
 
 The biggest problems with the current respawn mods is that they make you respawn fast in every gamemode, like party, which is unideal as it has made players accidently end a round early due to it, and they also keep bringing an annoying scoreboard popup when you die in challenge mode, this mod fixes all of that and does even more
 
+(trust me, I know challenge mode more than anyone, I wouldn't be making this mod for no reason)
+
 # Features
 
 ## Challenge Mode
@@ -46,8 +48,15 @@ The freeplay respawn time (0.5s by default) lets you change how fast you respawn
 3. Boot up your game, check the `com.Milena.RespawnControl.cfg` file in `Ultimate Chicken Horse/BepInEx/config/` to verify settings
 4. Enjoy!
 
+## Bug Reports
+
+DM (miileenaaa_) or Ping me in the [UCH modding discord server](https://discord.gg/3Hmejd274e) about bugs! I will try to maintain this mod for as long as possible
+
+### Known bugs
+- While in a multiplayer lobby in freeplay, dying right before entering a cannon or getting a post-mortem may cause your character to teleport back to the cannon or the start
+
 ## Special Thanks
 
-Special thanks to Ossie, he helped me to install the necessary software for modding, and this mod is built ontop of his mod `BuildUnlimiter` (which is built ontop of `DanceForce` lmao)
+Special thanks to Ossie, he helped me to install the necessary software for modding, and this mod is built ontop of his mod [BuildUnlimiter](https://github.com/Osqat/UCH-BuildUnlimiter) (which is built ontop of [DanceForce](https://github.com/batram/UCH-DanceForce) lmao)
 
-Also shoutout to tls for making the `challenge_retry` mod, while I didn't take any code from their mod, our mods are simillar in the challenge respawning area, but they did make their's first, and inspired me to make this whole mod aswell
+Also shoutout to tls for making the [challenge_retry](https://github.com/RSTFS/SR_UCH/blob/main/Others/ChallengeRetry/ChallengeRetry/ChallengeRetryPlugin.cs) mod, while I didn't take any code from their mod, our mods are simillar in the challenge respawning area, but they did make their's first, and inspired me to make this whole mod aswell
