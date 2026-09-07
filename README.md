@@ -1,6 +1,6 @@
 # RespawnControl (UCH Mod)
 
-**RespawnControl** is a BepInEx mod for *Ultimate Chicken Horse* that aims to let the user have the most control as possible over their respawns, and remove the most annoying aspects
+**RespawnControl** is a BepInEx mod for *Ultimate Chicken Horse* that aims to be the **definitive respawn mod**, by letting the user have the most control as possible over their respawns, and remove the most annoying aspects
 
 ## Requirements
 
