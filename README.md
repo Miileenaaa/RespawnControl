@@ -56,7 +56,7 @@ DM (miileenaaa_) or Ping me in the [UCH modding discord server](https://discord.
 - Freeplay's Respawn Key doesn't forcibly respawn you (Fixed locally for v1.1.0)
 - Respawn Keys still work while you're typing on the in-game chat (Fixed locally for v1.1.0)
 - While in a multiplayer lobby in challenge or freeplay, you can kill everyone with your respawn key (Fixed locally for v1.1.0)
-- While in a multiplayer lobby in freeplay, dying right before entering a cannon may cause your character to respawn before the cannon is fired, which makes the cannon teleport you back to it
+- While in a multiplayer lobby in freeplay, dying right before entering a cannon may cause your character to respawn before the cannon is fired, which makes the cannon teleport you back to it (Fixed locally for v1.1.0)
 - While in a multiplayer lobby in freeplay, dying right before reaching the flag may cause your character to respawn while in the winning sequence
 
 ## Special Thanks
