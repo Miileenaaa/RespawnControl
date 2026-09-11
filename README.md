@@ -27,6 +27,8 @@ This being a standalone key is important, as it could make levels where you need
 
 The instant retry on death is a setting which you can turn on in the config file (disabled by default), with it, it allows you to instantly respawn when you die (no scoreboard popup!)
 
+You may also delay the auto retry in settings
+
 ### "No Auto Retry after" & "No Accidental Instant Respawn"
 
 These 2 features lets you prevent the mod from respawning you too quick, or if you accidently press the instant respawn key when you're in a really good run
@@ -35,11 +37,19 @@ These 2 features lets you prevent the mod from respawning you too quick, or if y
 
 ### Freeplay Respawn Key
 
-The freeplay respawn key (disabled by default) lets you respawn at anytime in freeplay
+The freeplay respawn key (disabled by default) lets you respawn at anytime in freeplay (forcibly respawns you if you're dead, useful if you can't naturally respawn in multiplayer lobbies)
 
 ### Freeplay Respawn Time
 
 The freeplay respawn time (0.5s by default) lets you change how fast you respawn in freeplay, without affecting other gamemodes like party
+
+### Invincibility on Spawn
+
+The Invincibility on Spawn lets you change how much invincibility time you have when you spawn
+
+### Invincibility Key
+
+The Invincibility Key lets you temporarily gain invincibility while you hold it
 
 ## How to Use
 
@@ -53,10 +63,6 @@ The freeplay respawn time (0.5s by default) lets you change how fast you respawn
 DM (miileenaaa_) or Ping me in the [UCH modding discord server](https://discord.gg/3Hmejd274e) about bugs! I will try to maintain this mod for as long as possible
 
 ### Known bugs
-- Freeplay's Respawn Key doesn't forcibly respawn you (Fixed locally for v1.1.0)
-- Respawn Keys still work while you're typing on the in-game chat (Fixed locally for v1.1.0)
-- While in a multiplayer lobby in challenge or freeplay, you can kill everyone with your respawn key (Fixed locally for v1.1.0)
-- While in a multiplayer lobby in freeplay, dying right before entering a cannon may cause your character to respawn before the cannon is fired, which makes the cannon teleport you back to it (Fixed locally for v1.1.0)
 - While in a multiplayer lobby in freeplay, dying right before reaching the flag may cause your character to respawn while in the winning sequence
 
 ## Special Thanks
