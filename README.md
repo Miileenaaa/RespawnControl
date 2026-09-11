@@ -43,6 +43,10 @@ The freeplay respawn key (disabled by default) lets you respawn at anytime in fr
 
 The freeplay respawn time (0.5s by default) lets you change how fast you respawn in freeplay, without affecting other gamemodes like party
 
+### Respawn When Dead on Cannon
+
+Respawn When Dead on Cannon allows you to automatically spawn if you get stuck in a cannon while dead
+
 ### Invincibility on Spawn
 
 The Invincibility on Spawn lets you change how much invincibility time you have when you spawn
