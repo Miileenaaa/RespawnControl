@@ -5,17 +5,14 @@ using UnityEngine;
 using System.Reflection;
 using UnityEngine.SceneManagement;
 using BepInEx.Logging;
-using System.Globalization;
-using System.Runtime.InteropServices;
 using GameEvent;
-using System.Runtime.CompilerServices;
 
-[assembly: AssemblyVersion("1.2.0")]
-[assembly: AssemblyInformationalVersion("1.2.0")]
+[assembly: AssemblyVersion("1.2.1")]
+[assembly: AssemblyInformationalVersion("1.2.1")]
 
 namespace RespawnControl
 {
-    [BepInPlugin("com.Milena.RespawnControl", "RespawnControl", "1.2.0")]
+    [BepInPlugin("com.Milena.RespawnControl", "RespawnControl", "1.2.1")]
     public class RespawnControlMod : BaseUnityPlugin
     {
         public static ManualLogSource Log;
@@ -470,7 +467,7 @@ namespace RespawnControl
                             {
                                 if (array[i].networkNumber == number && (array[i].dead || array[i].Networkdead || array[i].dying || array[i].Networkdying))
                                 {
-                                    if (array[i].LocalPlayer != null)
+                                    if (array[i].LocalPlayer == null)
                                     {
                                         UserMessageManager.Instance.UserMessage("Respawning " + array[i].associatedGamePlayer.NetworkplayerName);
                                         array[i].SetupClientRespawn();
